@@ -94,13 +94,11 @@ Processing, Computer Vision
 
 ---
 ### Connect with me:
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)]([https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only](https://id.linkedin.com/in/anggimuhammadrifai))
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)]
-
+[instagram]: https://id.linkedin.com/in/anggimuhammadrifai
+[linkedin]: https://id.linkedin.com/in/anggimuhammadrifai
 
 
 [webdev]: https://github.com/AnggiRifai/AnggiRifai
